@@ -1,2 +1,2 @@
 # Py_codingStuff
-coding for excelence 
+coding for become coder
